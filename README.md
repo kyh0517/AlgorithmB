@@ -1,0 +1,2 @@
+# AlgorithmB
+solve the Algorithm
