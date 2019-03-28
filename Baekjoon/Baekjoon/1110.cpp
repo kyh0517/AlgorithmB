@@ -1,8 +1,9 @@
+/*
 #include <iostream>
 
 using namespace std;
 
-int main_1110() {
+int main() {
 
 	int input;
 	int num1, num2;
@@ -28,3 +29,4 @@ int main_1110() {
 
 	return 0;
 }
+*/

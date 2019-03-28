@@ -1,8 +1,9 @@
+/*
 #include <iostream>
 
 using namespace std;
 
-int main_2839() {
+int main() {
 
 	int weight;
 	int kg3 = 0, kg5 = 0;
@@ -36,3 +37,4 @@ int main_2839() {
 
 	return 0;
 }
+*/

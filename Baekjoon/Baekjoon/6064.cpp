@@ -1,3 +1,4 @@
+/* timeout
 #include<iostream>
 #include<algorithm>
 #include<numeric>
@@ -6,7 +7,7 @@ int lcm(int a, int b);
 
 using namespace std;
 
-int main_6064_timeout() {
+int main() {
 
 	int input;
 	int i, max;
@@ -64,3 +65,5 @@ int gcd(int a, int b) {
 int lcm(int a, int b) {
 	return a * b / gcd(a, b);
 }
+
+*/

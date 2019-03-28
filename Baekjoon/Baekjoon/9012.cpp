@@ -1,9 +1,10 @@
+/*
 #include<iostream>
 #include<stack>
 #include<string>
 using namespace std;
 
-int main_9012() {
+int main() {
 
 	int input, count = 0;
 	int i = 0, j = 0, size;
@@ -48,3 +49,4 @@ int main_9012() {
 	}
 	
 }
+*/

@@ -1,9 +1,10 @@
+/*
 #include<iostream>
 #include<queue>
 
 using namespace std;
 
-int main_1966() {
+int main() {
 
 	int input;
 	int N, M, im;
@@ -44,11 +45,9 @@ int main_1966() {
 				q.push({ index, p });
 
 			}
-
-
-
-
 		}
 	}
 	return 0;
 }
+
+*/

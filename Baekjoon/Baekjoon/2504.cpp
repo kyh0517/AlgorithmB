@@ -1,9 +1,10 @@
+/*
 #include<iostream>
 #include<string>
 #include<stack>
 using namespace	std;
 
-int main_2504() {
+int main() {
 
 	string input;
 	stack<char> ch;
@@ -102,3 +103,4 @@ int main_2504() {
 
 	return 0;
 }
+*/

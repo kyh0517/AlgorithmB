@@ -1,10 +1,11 @@
+/*
 #include<iostream>
 
 using namespace std;
 
 void q_sort(int *sort, int s, int e);
 void swap(int *x, int *y);
-int main_2750() {
+int main() {
 
 	int input;
 	int *sort;
@@ -72,3 +73,4 @@ void swap(int *x, int *y) {
 
 
 }
+*/

@@ -1,9 +1,10 @@
+/*
 #include<iostream>
 #include<queue>
 #include<string>
 using namespace std;
 
-int main_10845() {
+int main() {
 
 	queue<int> data;
 	string input;
@@ -59,3 +60,4 @@ int main_10845() {
 	return 0;
 
 }
+*/
