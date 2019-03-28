@@ -1,4 +1,3 @@
-/*
 #include<iostream>
 #include<queue>
 
@@ -10,7 +9,7 @@ void BFS(queue<int> q, int N, int V);
 int **GRAPH;
 int *visit;
 
-int main() {
+int main_1475() {
 
 	int N,M,S;
 	int f, t;
@@ -75,4 +74,3 @@ void BFS(queue<int> q,int N, int V) {
 
 	}
 }
-*/

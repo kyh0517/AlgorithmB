@@ -1,4 +1,3 @@
-/*
 #include<iostream>
 #include<string>
 #include<stack>
@@ -6,7 +5,7 @@ using namespace std;
 
 int size = 0;
 
-int main() {
+int main_10828() {
 
 	int input;
 	string inst;
@@ -51,4 +50,3 @@ int main() {
 
 	return 0;
 }
-*/

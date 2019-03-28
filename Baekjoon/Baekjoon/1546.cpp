@@ -1,10 +1,9 @@
-/*
 #include<iostream>
 #include<algorithm>
 
 using namespace std;
 
-int main() {
+int main_1546() {
 
 	int input;
 	double maxScore;
@@ -30,4 +29,3 @@ int main() {
 
 	return 0;
 }
-*/

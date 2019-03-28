@@ -1,9 +1,8 @@
-/*
 #include<iostream>
 #include<string>
 using namespace std;
 
-int main() {
+int main_2941() {
 
 	string input;
 	int size, i, count = 0;
@@ -100,4 +99,3 @@ int main() {
 
 	return 0;
 }
-*/

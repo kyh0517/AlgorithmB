@@ -1,11 +1,10 @@
-/*
 #include<iostream>
 #include<string>
 #include<algorithm>
 
 using namespace std;
 
-int main() {
+int main_1475() {
 
 	string input; 
 	int length;
@@ -38,4 +37,3 @@ int main() {
 
 	return 0;
 }
-*/

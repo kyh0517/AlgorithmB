@@ -1,10 +1,8 @@
-
-/*
 #include<iostream>
 
 using namespace std;
 
-int main() {
+int main_10250() {
 
 	int input;
 	int Y, X, N;
@@ -27,4 +25,3 @@ int main() {
 		
 	}
 }
-*/
